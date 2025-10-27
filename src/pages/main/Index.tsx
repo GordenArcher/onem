@@ -38,6 +38,8 @@ const Index = () => {
                 <div className="pt-30">
                     <Footer />
                 </div>
+
+                <p>hi</p>
                 
             </section>
         </div>
